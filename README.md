@@ -43,7 +43,7 @@
 ## Установка проекта
 
 ```
-git clone https://github.com/SkillfactoryDS/DataCleaningProject
+git clone https://github.com/kochden/Data_Science_PROJECT-1
 ```
 
 ## Использование проекта
